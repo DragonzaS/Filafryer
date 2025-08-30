@@ -19,7 +19,8 @@ I named it Filafryer because I got the idea from Air fryers used often as an alt
 
 ## Rough model of the idea I have
 
-<img width="1919" height="929" alt="Screenshot 2025-08-30 171421" src="https://github.com/user-attachments/assets/aae4c511-65af-4955-ba33-7998283647ad" />
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/24da4233-c8e1-45b2-8f0a-9b61189024f5" />
+
 There will be two compartments (top and bottom) with a fan + heater system, making the drying more even and also helps with circulating the air around the spool.
 
 Power supply and maybe rest of the electronics will be in a separate box. I will try to design a PCB that will fit inside without it overheating (maybe on the top) so then only the PSU will have to be separated.
