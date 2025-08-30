@@ -17,6 +17,13 @@ I named it Filafryer because I got the idea from Air fryers used often as an alt
 - No need to do work with dangerous AC (if you can find a 12V 120W power supply, I didn't so I used a modular PSU, DON'T TRY THAT IT IS VERY DANGEROUS!)
 - Uses ESP32-S3 as the main board!
 
+## Rough model of the idea I have
+
+<img width="1919" height="929" alt="Screenshot 2025-08-30 171421" src="https://github.com/user-attachments/assets/aae4c511-65af-4955-ba33-7998283647ad" />
+There will be two compartments (top and bottom) with a fan + heater system, making the drying more even and also helps with circulating the air around the spool.
+
+Power supply and maybe rest of the electronics will be in a separate box. I will try to design a PCB that will fit inside without it overheating (maybe on the top) so then only the PSU will have to be separated.
+
 ## WARNING
 There can be work with AC power, do not recreate this project without having experience with this.
 This can and will be a health risk if not done properly.
