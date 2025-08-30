@@ -31,12 +31,11 @@ This can and will be a health risk if not done properly.
 I HIGHLY recommend instead try to find a power supply with a wall plug and a barrel jack.
 And NOT USE a modular PSU that has to be wired by someone.
 
-## Roadmap
+## Roadmap (changed!)
 - Electronics of V1 ✔️
-- New 3D printed box
-- Software of V1 (running through ESPHome and Home assistant)
+- New breakout board + V2 electronics :arrow_forward:
+- New 3D printed box :arrow_forward:
 - New software
-- New breakout board + V2 electronics (might be moved higher due to Grounded still running)
 - Future plans not yet decided
 
 ## Parts list
